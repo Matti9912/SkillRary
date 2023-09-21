@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import genericLibraries.WebDriverUtility;
-
+//entra
 public class AddNewCoursePage {
 	
 	//WebDriverUtility web= new WebDriverUtility();
